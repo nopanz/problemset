@@ -2,6 +2,7 @@
   "name": "problemset",
   "version": "1.0.0",
   "dependencies": {
+    "co": "^4.6.0",
     "rand-token": "^0.2.1"
   },
   "devDependencies": {
